@@ -4,8 +4,7 @@
 
 nav {
     display: flex;
-    justify-content: space-between;
-
+    justify-content: space-evenly;
     background-color: cadetblue;
     height: 50px;
     padding-top: 20px;
